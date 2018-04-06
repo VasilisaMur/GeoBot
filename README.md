@@ -9,5 +9,7 @@
 /teach *страна* - обучение - пользователь при вызове пишет название страны, а бот в ответ пишет столицу этой страны и присылает карту.
 
 При создании использовались следующие API:
+
 Telegram Bot API (https://core.telegram.org/bots/api) - свободное ПО
+
 API Яндекс.Карт - Геокодер(https://tech.yandex.ru/maps/geocoder/?from=mapsapi), Static API(https://tech.yandex.ru/maps/staticapi/?from=mapsapi) Бесплатная версия, лимит - 25 000 запросов в сутки
